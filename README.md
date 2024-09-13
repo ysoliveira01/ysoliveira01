@@ -64,8 +64,8 @@ Sou Analista DevOps/SRE com uma paixão profunda pelo universo da tecnologia. Co
 
 <h3>🔗 Conecte-se comigo</h3>
 <p>
-    <a href="https://www.linkedin.com/in/ysoliveira0" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="40" height="40"/>
+    <a href="https://www.linkedin.com/in/yarasouza0" target="_blank" rel="noreferrer">
+        <img src="[https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png](https://cdn-icons-png.flaticon.com/256/174/174857.png)" alt="LinkedIn" width="40" height="40"/>
     </a>
 </p>
 
