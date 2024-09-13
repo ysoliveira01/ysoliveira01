@@ -62,9 +62,12 @@ Sou Analista DevOps/SRE com uma paixão profunda pelo universo da tecnologia. Co
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=ysoliveira01&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
 
-### 🔗 Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/ysoliveira0)
+<h3>🔗 Conecte-se comigo</h3>
+<p>
+    <a href="https://www.linkedin.com/in/ysoliveira0" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="40" height="40"/>
+    </a>
+</p>
 
 ### 📫 Como me encontrar
 
