@@ -65,7 +65,7 @@ Sou Analista DevOps/SRE com uma paixão profunda pelo universo da tecnologia. Co
 <h3>🔗 Conecte-se comigo</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/ysoliveira0" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.ico" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" height="30" width="40" />
 </a>
 </p>
 
