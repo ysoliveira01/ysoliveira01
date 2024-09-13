@@ -63,9 +63,8 @@ Sou Analista DevOps/SRE com uma paixão profunda pelo universo da tecnologia. Co
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=ysoliveira01&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
 
 <h3>🔗 Conecte-se comigo</h3>
-<p>
-    <a href="https://www.linkedin.com/in/yarasouza0" target="_blank" rel="noreferrer">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png](https://cdn-icons-png.flaticon.com/256/174/174857.png)" alt="LinkedIn" width="40" height="40"/>
+<p align="left">
+    <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysoliveira0" height="30" width="40" />
     </a>
 </p>
 
