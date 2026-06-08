@@ -99,18 +99,6 @@ Projeto acadêmico utilizando JavaScript e MySQL para desenvolvimento de uma pla
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ysoliveira01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ysoliveira01&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Próximos Objetivos
 
 - AWS Cloud Practitioner
