@@ -101,9 +101,13 @@ Projeto acadêmico utilizando JavaScript e MySQL para desenvolvimento de uma pla
 
 ## 📈 GitHub Stats
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=ysoliveira01&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ysoliveira01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysoliveira01&layout=compact&hide_border=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ysoliveira01&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
